@@ -516,3 +516,4 @@ This chapter covers:
 - How to compute several dozen technical indicators using TA-Lib and NumPy/pandas,
 - Creating the formulaic alphas describe in the above paper, and
 - Evaluating the predictive quality of the results using various metrics from rank correlation and mutual information to feature importance, SHAP values and Alphalens. 
+# machine-learning-for-t
